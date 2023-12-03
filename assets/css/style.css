@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(84, 185, 243);
+    color: white;
+}
+
+.foto {
+    display: flex;
+    flex-direction: column;
+    align-items:first baseline;
+    justify-content: center;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 60px;    
+}
+
+.main__profile {
+    margin-top: 30px;
+    margin-left: 50px;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.sobre__texto p {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items:self-start;
+    justify-content: left;
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    padding: 60px;
+    margin: 0 auto;
+    font-size: 2.2rem;    
+}

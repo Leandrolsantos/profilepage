@@ -1,0 +1,1 @@
+window.alert('Bem vindo ao meu Portifólio, clique em ok para continuar')
