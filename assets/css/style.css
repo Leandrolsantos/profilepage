@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(84, 185, 243);
+    background-color: rgba(84, 185, 243, 0.5);
     color: white;
 }
 
@@ -33,7 +33,7 @@ body {
     justify-content: left;
     width: 100vw;
     height: 100vh;
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.507);
     padding: 60px;
     margin: 0 auto;
     font-size: 2.2rem;
